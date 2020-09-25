@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 python-3.7.9
-=======
-python-3.7.4
->>>>>>> 6e8726a4a7c24f1da6fa41e74f1eeba4e52b3734
-=======
-python-3.7.9
->>>>>>> 27f2470ac5b3ff62a1e751b613b292b2b2bc9609
+
